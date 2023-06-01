@@ -1,1 +1,1 @@
-# its_all_about_typescript
+# its_all_about_script
